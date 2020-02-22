@@ -1,2 +1,2 @@
 # todo-lists
-A simple todo-lists to add list &amp cross out the list once done
+A simple todo-lists to add list & cross out the list once done
